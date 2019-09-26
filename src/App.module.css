@@ -14,3 +14,17 @@
     margin-left: 16px;
 }
 
+.listContainer {
+    padding-top: 8px;
+}
+
+.listItem {
+    /*background-color: beige;*/
+    border-bottom: 1px solid lightgray;
+    display: flex;
+}
+
+.todoTitle {
+    margin-bottom: 0;
+    margin-left: 8px;
+}
